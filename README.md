@@ -12,3 +12,13 @@ A console-based Banking Management System developed using **Core Java, JDBC, and
 - View all accounts
 - Delete an account
 - Store account and transaction data in MySQL
+
+## 🛠️ Technologies Used
+
+- Java
+- JDBC
+- MySQL
+- SQL
+- Eclipse IDE
+- Git
+- GitHub
